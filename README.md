@@ -4,6 +4,8 @@ Two common issues that I hope to solve with this app are:
 1) The lack of compatibility with whole foods
 2) The lack of flexibility of measurements. I used a certain 'ballpark' method that I would like to try and put into the app
 
+- uses .NET Standard, Xamarin.forms, and SQL SERVER (via Azure Data Studio). Made with Visual Studio for Mac
+
 ## To Run (currently dev / debug only):
 - clone repo, open in Visual Studio
 - Right click on solution, 'Restore Nuget Packages'
