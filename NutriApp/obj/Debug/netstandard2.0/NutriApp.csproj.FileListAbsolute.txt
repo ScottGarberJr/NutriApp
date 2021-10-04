@@ -1,0 +1,16 @@
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.csproj.AssemblyReference.cache
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.AssemblyInfoInputs.cache
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.AssemblyInfo.cs
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.csproj.CoreCompileInputs.cache
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.dll
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/ref/NutriApp.dll
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/NutriApp.pdb
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/bin/Debug/netstandard2.0/NutriApp.deps.json
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/bin/Debug/netstandard2.0/NutriApp.dll
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/bin/Debug/netstandard2.0/ref/NutriApp.dll
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/bin/Debug/netstandard2.0/NutriApp.pdb
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/scottg/Projects/App Projects/NutriApp/NutriApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
